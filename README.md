@@ -6,7 +6,7 @@ Hi, I am Rohit Jha Aspiring Data Analyst with a passion for translating raw data
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Rkjha6634/PORTFOLIO/blob/main/README.md).
 
 ### 🛠️ Tools
 
