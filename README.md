@@ -13,8 +13,6 @@ These are the top projects check in on my repository to find more projects
 
 - SQL
 - PYTHON
-- TABLEAU
-- EXCEL 
 
 
 
